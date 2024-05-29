@@ -5,10 +5,10 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        if l1 is None:
-            return l2
-        if l2 is None:
-            return l1
+        #if l1 is None:
+         #   return l2
+        #if l2 is None:
+         #   return l1
         carry=0
         head=ListNode()
         cur=head
