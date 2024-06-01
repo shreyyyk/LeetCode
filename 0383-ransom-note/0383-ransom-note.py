@@ -11,6 +11,8 @@ class Solution:
             if letter not in magazine:
                 return False
             magHash[letter]-=1
-            if magHash[letter]<0:
+            
+        for keys,values in magHash.items():
+            if values<0:
                 return False
         return True
