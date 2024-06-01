@@ -8,14 +8,9 @@ class Solution:
             else:
                 magHash[letter]=1
         for letter in ransomNote:
-            if letter in ransomHash:
-                ransomHash[letter]+=1
-            else:
-                ransomHash[letter]=1
-        for key,values in ransomHash.items():
-            if key in magHash:
-                if magHash[key]-values<0:
-                    return False
-            else:
+            if letter not in magazine:
+                return False
+            magHash[letter]-=1
+            if magHash[letter]<0:
                 return False
         return True
