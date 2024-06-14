@@ -25,6 +25,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shreyyyk/LeetCode/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shreyyyk/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shreyyyk/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shreyyyk/LeetCode/tree/master/1217-relative-sort-array) |
 # Two Pointers
@@ -35,6 +36,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shreyyyk/LeetCode/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shreyyyk/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shreyyyk/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shreyyyk/LeetCode/tree/master/1217-relative-sort-array) |
 # Breadth-First Search
@@ -44,9 +46,14 @@ LeetCode Questions
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shreyyyk/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shreyyyk/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shreyyyk/LeetCode/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/shreyyyk/LeetCode/tree/master/1217-relative-sort-array) |
+# Greedy
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shreyyyk/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
