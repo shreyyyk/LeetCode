@@ -10,16 +10,19 @@ LeetCode Questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
 # Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
 # Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
 # Array
 |  |
@@ -70,3 +73,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyyyk/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
