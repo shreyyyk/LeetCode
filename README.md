@@ -28,6 +28,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shreyyyk/LeetCode/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/shreyyyk/LeetCode/tree/master/0330-patching-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyyyk/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shreyyyk/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shreyyyk/LeetCode/tree/master/1217-relative-sort-array) |
@@ -60,6 +61,7 @@ LeetCode Questions
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/shreyyyk/LeetCode/tree/master/0330-patching-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyyyk/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # String
 |  |
