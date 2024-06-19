@@ -12,18 +12,21 @@ LeetCode Questions
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
+| [0988-flip-equivalent-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 # Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
+| [0988-flip-equivalent-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 # Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
+| [0988-flip-equivalent-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 # Array
 |  |
 | ------- |
