@@ -6,6 +6,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
+| [0930-all-possible-full-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 # Tree
 |  |
 | ------- |
@@ -14,6 +15,7 @@ LeetCode Questions
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/shreyyyk/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/shreyyyk/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 # Depth-First Search
 |  |
@@ -32,6 +34,7 @@ LeetCode Questions
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/shreyyyk/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/shreyyyk/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 # Array
 |  |
@@ -97,3 +100,11 @@ LeetCode Questions
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shreyyyk/LeetCode/tree/master/0572-subtree-of-another-tree) |
+# Recursion
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+# Memoization
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
