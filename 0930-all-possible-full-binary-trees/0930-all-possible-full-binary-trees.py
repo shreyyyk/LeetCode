@@ -6,8 +6,8 @@
 #         self.right = right
 class Solution:
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
-        if n%2==0:
-            return []
+        #if n%2==0:
+         #   return []
         def generator(n):
             if n==1:
                 return [TreeNode(0)]
