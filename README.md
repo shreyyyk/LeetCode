@@ -12,6 +12,7 @@ LeetCode Questions
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/shreyyyk/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 # Depth-First Search
 |  |
@@ -19,6 +20,7 @@ LeetCode Questions
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/shreyyyk/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 # Binary Tree
 |  |
@@ -26,6 +28,7 @@ LeetCode Questions
 | [0100-same-tree](https://github.com/shreyyyk/LeetCode/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shreyyyk/LeetCode/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/shreyyyk/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 # Array
 |  |
@@ -82,3 +85,11 @@ LeetCode Questions
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyyyk/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+# String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shreyyyk/LeetCode/tree/master/0572-subtree-of-another-tree) |
+# Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shreyyyk/LeetCode/tree/master/0572-subtree-of-another-tree) |
