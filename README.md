@@ -44,6 +44,7 @@ LeetCode Questions
 | [0330-patching-array](https://github.com/shreyyyk/LeetCode/tree/master/0330-patching-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyyyk/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shreyyyk/LeetCode/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/shreyyyk/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/shreyyyk/LeetCode/tree/master/1217-relative-sort-array) |
 # Two Pointers
 |  |
@@ -110,3 +111,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/shreyyyk/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/shreyyyk/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
