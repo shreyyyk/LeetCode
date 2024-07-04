@@ -128,10 +128,12 @@ LeetCode Questions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyyyk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/shreyyyk/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyyyk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/shreyyyk/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -140,6 +142,7 @@ LeetCode Questions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyyyk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/shreyyyk/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Database
 |  |
@@ -164,4 +167,8 @@ LeetCode Questions
 | ------- |
 | [0198-house-robber](https://github.com/shreyyyk/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/shreyyyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyyyk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
