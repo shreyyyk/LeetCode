@@ -141,4 +141,8 @@ LeetCode Questions
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/shreyyyk/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shreyyyk/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
