@@ -152,6 +152,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyyyk/LeetCode/tree/master/0070-climbing-stairs) |
+| [1642-water-bottles](https://github.com/shreyyyk/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/shreyyyk/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
@@ -175,5 +176,6 @@ LeetCode Questions
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/shreyyyk/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/shreyyyk/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
