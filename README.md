@@ -152,6 +152,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyyyk/LeetCode/tree/master/0070-climbing-stairs) |
+| [2645-pass-the-pillow](https://github.com/shreyyyk/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,4 +172,8 @@ LeetCode Questions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyyyk/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/shreyyyk/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
