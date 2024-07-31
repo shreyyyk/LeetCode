@@ -138,6 +138,7 @@ LeetCode Questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreyyyk/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1285-balance-a-binary-search-tree](https://github.com/shreyyyk/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -161,6 +162,7 @@ LeetCode Questions
 | [0091-decode-ways](https://github.com/shreyyyk/LeetCode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/shreyyyk/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shreyyyk/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyyyk/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shreyyyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2262-solving-questions-with-brainpower](https://github.com/shreyyyk/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
@@ -172,6 +174,7 @@ LeetCode Questions
 | ------- |
 | [0198-house-robber](https://github.com/shreyyyk/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shreyyyk/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shreyyyk/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shreyyyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2262-solving-questions-with-brainpower](https://github.com/shreyyyk/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Stack
