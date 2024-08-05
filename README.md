@@ -178,6 +178,7 @@ LeetCode Questions
 | [0213-house-robber-ii](https://github.com/shreyyyk/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyyyk/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shreyyyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/shreyyyk/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Stack
 |  |
@@ -192,6 +193,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/shreyyyk/LeetCode/tree/master/0091-decode-ways) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,4 +202,12 @@ LeetCode Questions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyyyk/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
