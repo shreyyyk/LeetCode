@@ -173,6 +173,7 @@ LeetCode Questions
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shreyyyk/LeetCode/tree/master/0041-first-missing-positive) |
 | [0198-house-robber](https://github.com/shreyyyk/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyyyk/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/shreyyyk/LeetCode/tree/master/0213-house-robber-ii) |
@@ -205,6 +206,7 @@ LeetCode Questions
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shreyyyk/LeetCode/tree/master/0041-first-missing-positive) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
