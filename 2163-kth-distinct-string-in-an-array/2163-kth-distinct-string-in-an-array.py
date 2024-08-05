@@ -6,10 +6,10 @@ class Solution:
                 hashy[elem]+=1
             else:
                 hashy[elem]=1
-        for key in hashy.keys():
-            if hashy[key] == 1:
+        for elem in arr:
+            if hashy[elem] == 1:
                 k-=1
                 if k==0:
-                    return key
+                    return elem
         return ""
         
