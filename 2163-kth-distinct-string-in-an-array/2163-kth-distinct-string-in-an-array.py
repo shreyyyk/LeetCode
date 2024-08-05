@@ -1,13 +1,9 @@
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
-        hashy={}
+        from collections import Counter
+        count=Counter(arr)
         for elem in arr:
-            if elem in hashy:
-                hashy[elem]+=1
-            else:
-                hashy[elem]=1
-        for elem in arr:
-            if hashy[elem] == 1:
+            if count[elem] == 1:
                 k-=1
                 if k==0:
                     return elem
