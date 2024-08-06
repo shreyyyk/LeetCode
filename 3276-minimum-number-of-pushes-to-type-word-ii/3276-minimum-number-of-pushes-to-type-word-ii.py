@@ -1,12 +1,14 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        hashy={}
+        '''hashy={}
         for i in range(len(word)):
             if word[i] in hashy:
                 hashy[word[i]]+=1
             else:
                 hashy[word[i]]=1
-        print(hashy)
+        print(hashy)'''
+        from collections import Counter
+        hashy=Counter(word)
         if len(hashy.keys())<=8:
             return sum(hashy.values())
         else:
