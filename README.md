@@ -125,6 +125,7 @@ LeetCode Questions
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/shreyyyk/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreyyyk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -195,6 +196,7 @@ LeetCode Questions
 | ------- |
 | [0091-decode-ways](https://github.com/shreyyyk/LeetCode/tree/master/0091-decode-ways) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreyyyk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,8 +210,14 @@ LeetCode Questions
 | ------- |
 | [0041-first-missing-positive](https://github.com/shreyyyk/LeetCode/tree/master/0041-first-missing-positive) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreyyyk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreyyyk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreyyyk/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
