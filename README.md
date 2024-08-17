@@ -166,6 +166,7 @@ LeetCode Questions
 | [0213-house-robber-ii](https://github.com/shreyyyk/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyyyk/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shreyyyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/shreyyyk/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/shreyyyk/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
@@ -180,6 +181,7 @@ LeetCode Questions
 | [0213-house-robber-ii](https://github.com/shreyyyk/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyyyk/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shreyyyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/shreyyyk/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreyyyk/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/shreyyyk/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Stack
